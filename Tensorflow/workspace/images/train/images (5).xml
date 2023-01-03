@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>images (5).jpeg</filename>
+	<path>/home/shivani/PycharmProjects/obj-localization-animal/Tensorflow/workspace/images/collectedimages/dog/images (5).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>18</ymin>
+			<xmax>168</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>
